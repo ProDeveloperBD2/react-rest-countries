@@ -1,0 +1,11 @@
+.container {
+
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.flags {
+    width: 250px;
+}
